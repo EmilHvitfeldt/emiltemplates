@@ -1,0 +1,30 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# emiltemplates
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of emiltemplates is to store all my templates.
+
+## Installation
+
+You can install **emiltemplates** from github with:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("EmilHvitfeldt/emiltemplates")
+```
