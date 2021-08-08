@@ -4,6 +4,8 @@
 # emiltemplates
 
 <!-- badges: start -->
+
+[![emilverse](https://img.shields.io/badge/emilverse-packages-blue.svg)](http://github.com/emilhvitfeldt/emilverse)
 <!-- badges: end -->
 
 The goal of emiltemplates is to store all my templates.
